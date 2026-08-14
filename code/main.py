@@ -8,12 +8,12 @@ from typing import Any
 
 import pandas as pd
 
-from src.classifier import NotificationClassifier
-from src.config import AppConfig
-from src.data_loader import load_all_datasets
-from src.output_generator import write_output_csv
-from src.retrieval import MessageRetriever
-from src.utils import LOGGER, ensure_directory
+from classifier import NotificationClassifier
+from config import AppConfig
+from data_loader import load_all_datasets
+from output_generator import write_output_csv
+from retrieval import MessageRetriever
+from utils import LOGGER, ensure_directory
 
 
 def build_context_for_message(

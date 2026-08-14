@@ -66,7 +66,6 @@ class AppConfig:
                 if csv_files:
                     return resolved
 
-        raise FileNotFoundError(
-            "Could not find a dataset directory containing CSV files. "
-            f"Checked from project root: {project_root}"
-        )
+        # Return a non-existent path as default instead of raising error
+        # This allows the app to work in environments where datasets are not available
+        return project_root / "dataset"

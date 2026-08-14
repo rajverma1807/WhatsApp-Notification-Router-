@@ -1,6 +1,6 @@
 import unittest
 
-from src.classifier import NotificationClassifier
+from classifier import NotificationClassifier
 
 
 class NotificationClassifierTests(unittest.TestCase):

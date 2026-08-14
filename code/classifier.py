@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from typing import Any
 
-from src.utils import clean_text
+from utils import clean_text
 
 
 class NotificationClassifier:

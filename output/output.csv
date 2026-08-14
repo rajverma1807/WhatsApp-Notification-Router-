@@ -1,0 +1,111 @@
+message_id,action,message_type,reason,confidence,evidence_message_ids
+msg_023,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0263;message_0243;message_0275
+msg_091,notify,urgent,This message requires immediate attention.,0.94,message_0238;message_0381;message_0361
+msg_090,mute,greeting,Greeting message is low priority.,0.78,message_0365;message_0226;message_0023
+msg_048,mute,scam,Scam indicators detected.,0.99,message_0151;message_0237;message_0152
+msg_040,mute,greeting,Greeting message is low priority.,0.78,message_0080;message_0132;message_0241
+msg_075,notify,event,This looks like an operational or event update that may matter soon.,0.86,message_0206;message_0246;message_0279
+msg_005,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0065;message_0224;message_0049
+msg_104,mute,greeting,Greeting message is low priority.,0.78,message_0065;message_0382;message_0383
+msg_069,mute,greeting,Greeting message is low priority.,0.78,message_0014;message_0123;message_0177
+msg_107,notify,urgent,This message requires immediate attention.,0.94,message_0365;message_0235;message_0056
+msg_070,notify,urgent,This message requires immediate attention.,0.94,message_0369;message_0024;message_0213
+msg_003,notify,business_update,This appears to be a business update tied to recent activity.,0.94,message_0400;message_0297;message_0031
+msg_099,notify,event,This looks like an operational or event update that may matter soon.,0.86,message_0227;message_0055;message_0219
+msg_008,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0296;message_0071;message_0072
+msg_092,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0398;message_0349;message_0347
+msg_060,notify,payment,Payment reminder should notify the user.,0.95,message_0284;message_0210;message_0176
+msg_004,notify,business_update,This appears to be a business update tied to recent activity.,0.94,message_0047;message_0245;message_0005
+msg_030,notify,event,This looks like an operational or event update that may matter soon.,0.86,message_0113;message_0115;message_0095
+msg_045,mute,greeting,Greeting message is low priority.,0.78,message_0378;message_0384;message_0146
+msg_052,mute,spam,This looks like spammy marketing content.,0.8,message_0207;message_0208;message_0159
+msg_009,mute,greeting,Greeting message is low priority.,0.78,message_0074;message_0192;message_0343
+msg_071,mute,greeting,Greeting message is low priority.,0.78,message_0046;message_0280;message_0166
+msg_016,mute,scam,Scam indicators detected.,0.99,message_0024;message_0053;message_0213
+msg_065,mute,spam,This looks like spammy marketing content.,0.78,message_0351;message_0261;message_0333
+msg_038,notify,urgent,This message requires immediate attention.,0.94,message_0039;message_0079;message_0131
+msg_086,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0393;message_0392;message_0390
+msg_014,mute,spam,This looks like spammy marketing content.,0.78,message_0317;message_0258;message_0018
+msg_094,mute,promotion,"The user usually dismisses similar promotions, so this is muted.",0.77,message_0398;message_0349;message_0347
+msg_029,notify,event,This looks like an operational or event update that may matter soon.,0.86,message_0113;message_0115;message_0095
+msg_105,mute,greeting,Greeting message is low priority.,0.78,message_0373;message_0233;message_0079
+msg_002,notify,urgent,This message requires immediate attention.,0.94,message_0003;message_0219;message_0059
+msg_010,mute,greeting,Greeting message is low priority.,0.78,message_0311;message_0011;message_0242
+msg_078,notify,urgent,This message requires immediate attention.,0.94,message_0199;message_0211;message_0089
+msg_013,digest,promotion,Promotional offer can be shown in the digest.,0.81,message_0114;message_0116;message_0174
+msg_018,notify,business_update,This appears to be a business update tied to recent activity.,0.92,message_0026;message_0023;message_0045
+msg_044,notify,urgent,This message requires immediate attention.,0.94,message_0199;message_0211;message_0089
+msg_032,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0285;message_0119;message_0316
+msg_106,digest,personal,This looks like a normal personal message without urgent or risky signals.,0.74,message_0376;message_0234;message_0268
+msg_006,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0097;message_0067;message_0029
+msg_109,mute,greeting,Greeting message is low priority.,0.78,message_0151;message_0237;message_0051
+msg_108,mute,greeting,Greeting message is low priority.,0.78,message_0094;message_0093;message_0236
+msg_019,mute,spam,This looks like spammy marketing content.,0.84,message_0277;message_0093;message_0094
+msg_088,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0390;message_0392;message_0391
+msg_056,notify,business_update,This appears to be a business update tied to recent activity.,0.92,message_0226;message_0046;message_0280
+msg_027,mute,spam,This looks like spammy marketing content.,0.8,message_0299;message_0272;message_0033
+msg_050,notify,business_update,This appears to be a business update tied to recent activity.,0.94,message_0246;message_0279;message_0047
+msg_083,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0392;message_0390;message_0391
+msg_063,notify,urgent,This message requires immediate attention.,0.94,message_0271;message_0025;message_0199
+msg_033,notify,urgent,This message requires immediate attention.,0.94,message_0046;message_0197;message_0165
+msg_061,mute,greeting,Greeting message is low priority.,0.78,message_0016;message_0039;message_0079
+msg_020,notify,urgent,This message requires immediate attention.,0.94,message_0199;message_0211;message_0089
+msg_017,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0025;message_0271;message_0036
+msg_058,mute,greeting,Greeting message is low priority.,0.78,message_0016;message_0079;message_0131
+msg_026,mute,spam,This looks like spammy marketing content.,0.78,message_0028;message_0032;message_0107
+msg_047,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0328;message_0129;message_0057
+msg_046,notify,urgent,This message requires immediate attention.,0.94,message_0148;message_0166;message_0168
+msg_042,notify,urgent,This message requires immediate attention.,0.94,message_0216;message_0058;message_0130
+msg_079,notify,urgent,This message requires immediate attention.,0.94,message_0369;message_0024;message_0023
+msg_098,notify,business_update,This appears to be a business update tied to recent activity.,0.92,message_0367;message_0226;message_0366
+msg_037,mute,greeting,Greeting message is low priority.,0.78,message_0001;message_0029;message_0129
+msg_007,mute,greeting,Greeting message is low priority.,0.78,message_0008;message_0216;message_0058
+msg_085,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0393;message_0392;message_0390
+msg_001,mute,greeting,Greeting message is low priority.,0.78,message_0240;message_0129;message_0057
+msg_021,notify,payment,Payment reminder should notify the user.,0.95,message_0029;message_0044;message_0098
+msg_028,mute,spam,This looks like spammy marketing content.,0.78,message_0034;message_0314;message_0315
+msg_012,mute,greeting,Greeting message is low priority.,0.78,message_0040;message_0016;message_0194
+msg_064,mute,forward,Forwarded content is low value and often noisy.,0.8,message_0053;message_0213;message_0201
+msg_103,mute,greeting,Greeting message is low priority.,0.78,message_0065;message_0382;message_0383
+msg_031,notify,event,This looks like an operational or event update that may matter soon.,0.86,message_0397;message_0304;message_0218
+msg_057,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0059;message_0169;message_0117
+msg_087,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0392;message_0391;message_0390
+msg_067,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0098;message_0068;message_0029
+msg_039,mute,greeting,Greeting message is low priority.,0.78,message_0364;message_0051;message_0403
+msg_082,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0392;message_0390;message_0391
+msg_066,notify,payment,Payment reminder should notify the user.,0.95,message_0336;message_0257;message_0402
+msg_049,notify,business_update,This appears to be a business update tied to recent activity.,0.94,message_0154;message_0291;message_0153
+msg_015,notify,urgent,This message requires immediate attention.,0.94,message_0023;message_0045;message_0199
+msg_051,notify,payment,Payment reminder should notify the user.,0.95,message_0257;message_0337;message_0356
+msg_097,notify,urgent,This message requires immediate attention.,0.94,message_0366;message_0359;message_0054
+msg_089,mute,greeting,Greeting message is low priority.,0.78,message_0382;message_0383;message_0238
+msg_053,notify,payment,Payment reminder should notify the user.,0.95,message_0161;message_0253;message_0411
+msg_059,notify,business_update,This appears to be a business update tied to recent activity.,0.92,message_0053;message_0024;message_0173
+msg_024,notify,payment,Payment reminder should notify the user.,0.95,message_0257;message_0337;message_0356
+msg_072,notify,urgent,This message requires immediate attention.,0.94,message_0199;message_0211;message_0089
+msg_036,mute,forward,Forwarded content is low value and often noisy.,0.8,message_0283;message_0127;message_0128
+msg_076,mute,spam,This looks like spammy marketing content.,0.8,message_0207;message_0208;message_0159
+msg_055,notify,urgent,This message requires immediate attention.,0.94,message_0367;message_0166;message_0168
+msg_102,mute,greeting,Greeting message is low priority.,0.78,message_0371;message_0230;message_0055
+msg_080,mute,greeting,Greeting message is low priority.,0.78,message_0216;message_0058;message_0130
+msg_093,notify,urgent,This message requires immediate attention.,0.94,message_0303;message_0398;message_0349
+msg_034,notify,urgent,This message requires immediate attention.,0.94,message_0042;message_0013;message_0123
+msg_035,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0273;message_0302;message_0281
+msg_101,digest,personal,This looks like a normal personal message without urgent or risky signals.,0.74,message_0370;message_0229;message_0268
+msg_041,notify,event,This looks like an operational or event update that may matter soon.,0.86,message_0329;message_0287;message_0308
+msg_011,mute,greeting,Greeting message is low priority.,0.78,message_0080;message_0132;message_0014
+msg_110,notify,urgent,This message requires immediate attention.,0.94,message_0238;message_0361;message_0381
+msg_095,mute,greeting,Greeting message is low priority.,0.78,message_0235;message_0056;message_0213
+msg_074,mute,forward,Forwarded content is low value and often noisy.,0.8,message_0301;message_0204;message_0203
+msg_073,notify,payment,Payment reminder should notify the user.,0.95,message_0023;message_0045;message_0213
+msg_054,mute,greeting,Greeting message is low priority.,0.78,message_0389;message_0301;message_0203
+msg_068,mute,greeting,Greeting message is low priority.,0.78,message_0073;message_0191;message_0010
+msg_100,mute,greeting,Greeting message is low priority.,0.78,message_0362;message_0228;message_0055
+msg_062,notify,event,This looks like an operational or event update that may matter soon.,0.86,message_0289;message_0043;message_0129
+msg_096,digest,personal,This looks like a normal personal message without urgent or risky signals.,0.74,message_0238;message_0361;message_0381
+msg_043,mute,forward,Forwarded content is low value and often noisy.,0.8,message_0097;message_0067;message_0129
+msg_077,notify,event,This looks like an operational or event update that may matter soon.,0.86,message_0403;message_0364;message_0051
+msg_081,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0392;message_0390;message_0391
+msg_025,notify,business_update,This appears to be a business update tied to recent activity.,0.94,message_0400;message_0297;message_0031
+msg_084,digest,unknown,"No strong signal was found, so the message was kept in the digest.",0.6,message_0393;message_0392;message_0390
+msg_022,notify,payment,Payment reminder should notify the user.,0.95,message_0099;message_0100;message_0049

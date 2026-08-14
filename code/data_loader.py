@@ -7,7 +7,7 @@ from typing import Any
 
 import pandas as pd
 
-from src.utils import LOGGER
+from utils import LOGGER
 
 
 def _safe_read_csv(path: Path, columns: list[str] | None = None) -> pd.DataFrame:

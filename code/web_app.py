@@ -4,10 +4,10 @@ from __future__ import annotations
 
 from flask import Flask, render_template_string, request
 
-from src.classifier import NotificationClassifier
-from src.config import AppConfig
-from src.data_loader import load_all_datasets
-from src.retrieval import MessageRetriever
+from classifier import NotificationClassifier
+from config import AppConfig
+from data_loader import load_all_datasets
+from retrieval import MessageRetriever
 
 
 HTML_TEMPLATE = """

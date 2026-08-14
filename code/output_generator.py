@@ -7,7 +7,7 @@ from typing import Any
 
 import pandas as pd
 
-from src.utils import ensure_directory, LOGGER
+from utils import ensure_directory, LOGGER
 
 
 def write_output_csv(rows: list[dict[str, Any]], output_path: Path | str) -> pd.DataFrame:

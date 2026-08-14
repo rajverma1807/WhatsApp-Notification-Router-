@@ -1,6 +1,6 @@
 import unittest
 
-from src.web_app import create_app
+from web_app import create_app
 
 
 class WebAppTests(unittest.TestCase):
